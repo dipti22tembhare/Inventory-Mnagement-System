@@ -7,8 +7,8 @@
 Clone this repository and install dependencies for each service.
 
 ```bash
-[git clone https://github.com/yourusername/inventory-microservices.git](https://github.com/TejasAgrawal007/Inventory-management-system)
-cd inventory-microservices
+[[git clone https://github.com/yourusername/inventory-microservices.git](https://github.com/TejasAgrawal007/Inventory-management-system)
+cd inventory-microservices](https://github.com/dipti22tembhare/Inventory-Mnagement-System/tree/main)
 ```
 
 ### User Service
